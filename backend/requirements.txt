@@ -1,0 +1,4 @@
+flask
+flask-cors
+transformers
+torch  # hoặc thêm vào nếu model cần pytorch
